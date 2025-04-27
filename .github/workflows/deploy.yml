@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - master
-      - v4  # ajoute ici ta branche si elle s'appelle "v4"
+      - v4  # ajoute ici la branche que tu utilises (toi c'est "v4")
 
 permissions:
   contents: read
