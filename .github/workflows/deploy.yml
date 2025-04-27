@@ -1,11 +1,11 @@
-name: Deploy Quartz site to GitHub Pages
+name: Build and Deploy Quartz
 
 on:
   push:
     branches:
       - main
-      - master
-      - v4  # ajoute ici la branche que tu utilises (toi c'est "v4")
+      - v4   # adapte selon ta branche
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -13,31 +13,31 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "deploy"
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build site
         run: npm run build
 
-      - name: Upload artifact
+      - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: "./public"
+          path: public
 
   deploy:
     needs: build
