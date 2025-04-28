@@ -52,3 +52,5 @@ Il **construit**, **organise** et **maintient** les infrastructures nécess
 - Organiser l'archivage historique sécurisé de millions de documents métiers.
     
 - Mettre en conformité les flux de données avec des normes RGPD ou PCI-DSS.
+
+[[SQL]],[[ESB - EDI]],

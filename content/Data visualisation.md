@@ -36,3 +36,4 @@ graphiques, tableaux de bord, cartes, schémas.
 | **Tableau**               | Outil puissant pour des visualisations complexes et interactives. |
 | **Looker** (Google Cloud) | Visualisation + modélisation des données dans le cloud.           |
 | **Qlik Sense**            | Forte capacité d'exploration associative des données.             |
+[[QLIK]],[[POWER BI]],[[MICROSOFT FABRIC]]

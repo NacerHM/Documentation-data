@@ -64,3 +64,4 @@ La **Business Intelligence** (BI) regroupe **l’ensemble des outils, méthod
 | **Image**             | Le **détective** qui enquête sur les données.                                 | Le **pilote** qui lit son tableau de bord pour ajuster sa trajectoire.                        |
 **Le Data Analyst** est **un enquêteur** : il creuse, pose des questions, trouve des réponses détaillées.  
 **La BI** est **le GPS de l’entreprise** : elle donne une vision rapide de l’état du véhicule et de la route à suivre.
+[[Data visualisation]],

@@ -53,3 +53,6 @@ Il **analyse des volumes massifs de données**, **construit des modèles préd
 - Optimiser la **gestion des stocks** selon des prévisions de ventes.
     
 - Personnaliser en temps réel **l’offre commerciale** pour chaque client.
+
+
+[[Data mining]]

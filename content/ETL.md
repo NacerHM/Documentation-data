@@ -65,3 +65,6 @@ L'ETL est la machine à laver des données : il extrait, nettoie, prépare et li
 - Fivetran / Airbyte = **vitesse et agilité**,
     
 - AWS Glue / Azure Data Factory = **intégration dans le Cloud**.
+
+
+[[TALEND]],[[MICROSOFT FABRIC]],

@@ -15,3 +15,6 @@
 - **SQL est universel** : quel que soit l’outil ou la technologie utilisée (Oracle, MySQL, PostgreSQL…), **la logique reste la même**.
     
 - Quand une entreprise parle de **sa base de données**, **il y a 90 % de chances** qu'elle fonctionne avec SQL.
+
+
+[[Entrepôt de données (Data Warehouse - DWH)]],

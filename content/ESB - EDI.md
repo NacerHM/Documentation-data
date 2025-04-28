@@ -56,3 +56,6 @@ L'**EDI** est **un système d'échange automatisé de documents** **entre plu
 | --------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Talend ESB**  | ESB (Enterprise Service Bus)                                                                | Solution  robuste pour l'intégration d'applications et de services. Fortement orienté Data et Cloud.                               | Grandes entreprises, ETI en transformation numérique, clients cherchant flexibilité et coûts maîtrisés.      |
 | **Blueway ESB** | ESB français + EAI (Enterprise Application Integration) + BPM (Business Process Management) | Plateforme souveraine, forte intégration entre flux de données, processus métiers et gouvernance. Solution "tout-en-un" française. | Secteur public, collectivités, industries réglementées, entreprises sensibles à la souveraineté des données. |
+
+
+[[Blueway]],[[TALEND]],

@@ -47,3 +47,5 @@ C’est **le processus d’exploration intelligente de grandes quantités de do
 - **Retail** : détecter les paniers types d’achats cachés (ex : clients achetant ensemble couches et bières…).
     
 - **Industrie** : anticiper les pannes de machines avant qu'elles ne surviennent.
+
+[[Problème supervisé - non-supervisé]]

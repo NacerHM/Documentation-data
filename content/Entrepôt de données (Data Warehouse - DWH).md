@@ -40,3 +40,5 @@ Un **Data Warehouse** (ou **entrepôt de données**) est **une grande base d
 
 Un Data Warehouse est l'outil qui transforme les données éparpillées en intelligence stratégique durable.  
 C’est le cerveau analytique de l’entreprise.
+
+[[POWER BI]],[[MICROSOFT FABRIC]],[[QLIK]]
